@@ -363,6 +363,9 @@ Useful links
 
  - https://github.com/bluthg/odbc_fdw
  - https://github.com/pgspider/odbc_fdw
+ 
+ Reference FDW realisation, `postgres_fdw`
+ - https://git.postgresql.org/gitweb/?p=postgresql.git;a=tree;f=contrib/postgres_fdw;hb=HEAD
 
 ### General FDW Documentation
 
